@@ -6,7 +6,7 @@ from . import commands, messages, callbacks, keyboards
 from app import app, db
 
 
-bot = TeleBot("6138381404:AAFChXJhp3yZqEFQ1VR3qzIzhRfC_i_lc_0")
+bot = TeleBot("7043411349:AAExHLfAPfOf5GpN5wfWHYF9sBS30yCAAmo")
 
 
 @bot.message_handler(func=commands.REG_USER)
